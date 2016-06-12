@@ -1,0 +1,17 @@
+>> AetherflowVersion >> r153
+>> AddonVersion >> 0.4
+>> Author >> Milleniu && Daws
+>> Title >> Red Panda UI
+>> Description >> Custom UI
+>> FileList >>
+src/attunement/core.lua
+src/attunement/drawable.lua
+src/attunement/debug.lua
+RedPanda_UI_Options.lua
+src/unitframes/playerUI.lua
+src/unitframes/targetUI.lua
+src/unitframes/targetTargetUI.lua
+src/unitframes/focusUI.lua
+src/extensions/castBar.lua
+src/extensions/combo.lua
+src/core.lua
