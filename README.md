@@ -8,7 +8,7 @@ Daws - Designer
 UI RESKIN
 -------------
 
-![Main UI Frames](http://puu.sh/pqf7s.png)
+![Main UI Frames](http://puu.sh/pqfUZ.png)
 
 Class Tracker example :
 > left one is for aetherflow cooldown and right one is for aethertail attunement
